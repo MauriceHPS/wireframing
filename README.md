@@ -29,3 +29,14 @@ Wireframing is a crucial step in the design process, serving as a blueprint or s
 ## Types of Wireframes
  * Low-Fidelity Wireframes: Simple sketches or basic digital layouts focusing on overall structure and functionality without detailed design.
  * High-Fidelity Wireframes: More detailed and refined versions, often closer to the final design, including more specific layout and design elements.
+
+## Popular wireframing tools
+ * Figma: 
+    Figma is a cloud-based design and prototyping tool that enables real-time collaboration. It supports drag-and-drop wireframing, reusable UI components, version history, and live commenting. It’s ideal for teams, as multiple stakeholders can co-edit and give feedback instantly — perfect for fast, iterative wireframe development.
+* Adobe XD: 
+  Adobe XD offers vector-based wireframing and prototyping with a clean interface and seamless integration with other Adobe tools. It supports responsive layouts and interactive prototypes, making it a strong choice for designers already in the Adobe ecosystem.
+ * Balsamiq: 
+    Balsamiq focuses on low-fidelity wireframes with a sketch-style interface that emphasizes structure over visuals. It’s fast and simple for early brainstorming and communicating ideas to non-technical stakeholders.
+
+### Why Figma stands out:
+  It’s browser-based, collaborative, easy to learn, and integrates well with development workflows — making it ideal for both solo designers and teams.
