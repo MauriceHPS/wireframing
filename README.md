@@ -40,3 +40,16 @@ Wireframing is a crucial step in the design process, serving as a blueprint or s
 
 ### Why Figma stands out:
   It’s browser-based, collaborative, easy to learn, and integrates well with development workflows — making it ideal for both solo designers and teams.
+
+## Benefits of wireframing on software development
+ * Clarifies Requirements Early:
+Wireframes help stakeholders visualize the system layout and flow before development begins, reducing ambiguity and aligning expectations from the start.
+
+ * Saves Time and Cost: 
+By identifying usability issues or layout problems early, wireframing prevents expensive rework later in the development cycle.
+
+ * Enhances User Experience (UX): 
+It allows teams to focus on structure, navigation, and user flow — ensuring the interface is intuitive before investing in full design and coding.
+
+ * Improves Communication and Collaboration: 
+Wireframes act as a common reference point for designers, developers, product owners, and clients, making discussions more concrete and efficient.
